@@ -55,6 +55,7 @@ require (
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/sys v0.0.0-20201202213521-69691e467435
+	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	google.golang.org/grpc v1.30.0
 	gotest.tools/v3 v3.0.2
 	k8s.io/api v0.20.1
